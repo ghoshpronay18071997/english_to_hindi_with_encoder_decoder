@@ -1,7 +1,5 @@
-
-<center><img src="https://github.com/insaid2018/Term-1/blob/master/Images/INSAID_Full%20Logo.png?raw=true" width="360" height="160" /></center>
 <br>
-<h1><b>English to Hindi Translation using Encoders and Decoders</b></h1>
+<h2><b>English to Hindi Translation using Encoders and Decoders</b></h2>
 <br>
 
 ## **Table of Contents**
